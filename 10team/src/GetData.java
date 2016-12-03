@@ -16,7 +16,7 @@ public class GetData {
 			Workbook wb = null;
 			wb = Workbook.getWorkbook(file);
 			Sheet sheet = wb.getSheet(0);
-			row = sheet.getRows();
+			row = sheet.getRows();	
 			col = sheet.getColumns();
 		} catch (Exception e) {
 			e.printStackTrace();
