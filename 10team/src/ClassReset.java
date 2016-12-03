@@ -7,6 +7,8 @@ public class ClassReset {
          for (int j = 0; j < colCount; j++) {
             selectedData[i][j] = null;
          }
+         
+         
       }
       
       for (int i = 0; i < selectedDataRow; i++) {

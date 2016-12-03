@@ -17,18 +17,6 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableRowSorter;
 
-import Check.CreditCheck;
-import Check.OverlapCheck;
-import Data.ClassSave;
-import Data.CreditData;
-import Data.ChangeData;
-import Data.ClassAdd;
-import Data.ClassDelete;
-import Data.ClassReset;
-import Data.GetData;
-import Data.TimeData;
-import Data.StudentInformation;
-
 public class MainUi implements MouseListener, ActionListener {
 	
 	//메인화면
